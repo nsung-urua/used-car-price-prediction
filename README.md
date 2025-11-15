@@ -3,9 +3,9 @@
 This project uses machine learning to predict used car prices based on factors such as engine power, car age, year, mileage, and transmission type.
 
 ## 📊 Project Overview
-- **Goal:** Build a regression model to estimate used car prices.
-- **Dataset:** Cars4U India dataset (approx. 5,000 records)
-- **Tech stack:** Python, Pandas, Scikit-learn, XGBoost, Matplotlib
+- **Goal:** Build a predictive model to estimate used car prices.
+- **Dataset:** used car prices from cars4U (approx. 7,000 records)
+- **Tech stack:** Python, Pandas, Numpy, Matplotib, Seaborn, Scikit-learn, XGBoost, sklearn.preprocessing, skleaarn.metrics, GridSearchCV, XGBRegressor tuning
 
 ## ⚙️ Workflow
 1. Data cleaning and feature engineering
@@ -21,8 +21,8 @@ This project uses machine learning to predict used car prices based on factors s
 
 ## 📈 Files in this Repository
 - `used_car_price_prediction.ipynb` – Full notebook
-- `results.pdf` – Visual summary and findings
-- `requirements.txt` – List of dependencies
+- `used_cars.csv` – Dataset used for Model 
+
 
 ## 🗝️ How to Run
 ```bash
