@@ -1,6 +1,6 @@
 # Used Car Price Prediction 🚗💰
 
-This project uses machine learning to predict used car prices based on factors such as engine power, car age, year, mileage, and transmission type.
+This project uses machine learning to predict used car prices based on factors such as brand, engine power, car age, year, mileage, and transmission type.
 
 ## 📊 Project Overview
 - **Goal:** Build a predictive model to estimate used car prices.
